@@ -14,9 +14,9 @@
       ],
       
    
-    "BannerNetwork"      : "promote",
+    "BannerNetwork"      : "admob",
     "InterstitialNetwork": "admob",
-    "NativeNetwork"      : "promote",
+    "NativeNetwork"      : "admob",
     "RewardNetwork"      : "admob",
     "OpenAdNetwork"      : "admob",
     
