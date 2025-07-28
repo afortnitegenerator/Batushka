@@ -59,7 +59,12 @@
     "VpnUserName": "oh32rx7g7ci1d6y63jqup5ig",
     "VpnPassword": "m6tirlujjxbh3v6d9agjjlll",
     "VpnFiles": [
-      {
+       {
+        "vpnName": "Morocco",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_morocco_udp.ovpn"
+      },
+        
+        {
         "vpnName": "USA",
         "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_new_york_udp.ovpn"
       },
