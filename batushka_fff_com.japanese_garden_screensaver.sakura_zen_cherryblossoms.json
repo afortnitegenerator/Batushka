@@ -8,10 +8,10 @@
    
     "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'unity', 'promote' ",
    
-    "BannerNetwork"      : "admob",
-    "InterstitialNetwork": "admob",
-    "NativeNetwork"      : "admob",
-    "RewardNetwork"      : "admob",
+    "BannerNetwork"      : "",
+    "InterstitialNetwork": "",
+    "NativeNetwork"      : "",
+    "RewardNetwork"      : "",
     
     "AdInterval"         : 3,
     
@@ -47,7 +47,7 @@
   },
 "onesignal_app_id": "",
     "VPNSetting": {
-        "ConnectionType": "random",
+        "ConnectionType": "off",
         "VpnUserName": "oh32rx7g7ci1d6y63jqup5ig",
         "VpnPassword": "m6tirlujjxbh3v6d9agjjlll",
         "VpnFiles": [
