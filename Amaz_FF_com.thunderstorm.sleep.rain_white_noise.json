@@ -13,7 +13,7 @@
     "NativeNetwork"      : "",
     "RewardNetwork"      : "",
     
-    "AdInterval"         : 2,
+    "AdInterval"         : 6,
     
     "AdPlacement": {
         
