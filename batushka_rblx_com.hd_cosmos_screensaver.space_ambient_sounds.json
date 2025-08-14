@@ -47,15 +47,15 @@
   },
 "onesignal_app_id": "",
    "VPNSetting": {
-    "ConnectionType": "off",
+    "ConnectionType": "random",
 
-    "VpnUserName": "oh32rx7g7ci1d6y63jqup5ig",
-    "VpnPassword": "m6tirlujjxbh3v6d9agjjlll",
+    "VpnUserName": "p1080392",
+    "VpnPassword": "J3PKFYEaX8",
 
     "BlockedCountry": "ca,uk,usa",
 
     "VpnFiles": [
-      {
+ {
     "vpnName": "USA",
     "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_new_york_udp.ovpn"
   },
