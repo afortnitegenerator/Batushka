@@ -47,7 +47,7 @@
   },
 "onesignal_app_id": "",
   "VPNSetting": {
-        "ConnectionType": "random",
+        "ConnectionType": "off",
         "VpnUserName": "p1080392",
         "VpnPassword": "J3PKFYEaX8",
         "VpnFiles": [
