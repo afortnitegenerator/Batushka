@@ -10,11 +10,11 @@
 
      
      
-    "BannerNetwork"      : "admob",
-    "InterstitialNetwork": "admob",
-    "NativeNetwork"      : "admob",
-    "RewardNetwork"      : "admob",
-    "OpenAdNetwork"      : "admob",
+    "BannerNetwork"      : "",
+    "InterstitialNetwork": "",
+    "NativeNetwork"      : "",
+    "RewardNetwork"      : "",
+    "OpenAdNetwork"      : "",
      
     "AdInterval"         : 1,
     
@@ -50,7 +50,7 @@
   
   },
   
- "onesignal_app_id": "1c7874cf-c1c5-442e-8dc8-bb93ef4e9fcf",
+ "onesignal_app_id": "",
   
   "VPNSetting": {
         "ConnectionType": "off",
