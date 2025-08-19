@@ -4,10 +4,10 @@
       "To run ads for each network, enter one of the following: 'admob', 'applovin', 'unity', 'promote'",
       "⚠️Warning: OpenAd work only on admob at time."
     ],
-    "BannerNetwork": "promote",
-    "InterstitialNetwork": "admob",
-    "NativeNetwork": "promote",
-    "RewardNetwork": "admob",
+    "BannerNetwork": "",
+    "InterstitialNetwork": "",
+    "NativeNetwork": "",
+    "RewardNetwork": "",
     "OpenAdNetwork": "admob",
     "AdInterval": 1,
     "AdPlacement": {
