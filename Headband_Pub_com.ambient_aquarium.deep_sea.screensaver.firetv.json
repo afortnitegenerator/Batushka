@@ -4,18 +4,23 @@
       "To run ads for each network, enter one of the following: 'admob', 'applovin', 'unity', 'promote'",
       "⚠️Warning: OpenAd work only on admob at time."
     ],
-    "BannerNetwork": "promote",
-    "InterstitialNetwork": "admob",
-    "NativeNetwork": "promote",
-    "RewardNetwork": "admob",
-    "OpenAdNetwork": "admob",
-    "AdInterval": 1,
+    "BannerNetwork": "",
+    "InterstitialNetwork": "",
+    "NativeNetwork": "",
+    "RewardNetwork": "",
+    "OpenAdNetwork": "",
+    
+    "AdInterval": 2,
+   
     "AdPlacement": {
+      
       "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
       "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
       "AdMobNative": "ca-app-pub-3940256099942544/2247696110",
       "AdMobReward": "ca-app-pub-3940256099942544/5224354917",
       "AdMobOpenAd": "ca-app-pub-3940256099942544/9257395921",
+      
+      
       "ApplovinKey": "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
       "ApplovinBanner": "da17eff31ae69f15",
       "ApplovinInterstitial": "98f6a586ed642919",
