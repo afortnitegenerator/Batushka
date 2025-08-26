@@ -7,11 +7,11 @@
    "AdsController": {
    
     "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'unity', 'promote' ",
-   "OpenAdNetwork"       : "",
-    "BannerNetwork"      : "",
-    "InterstitialNetwork": "",
-    "NativeNetwork"      : "",
-    "RewardNetwork"      : "",
+   "OpenAdNetwork"       : "ca-app-pub-9691576545415217/7005790186",
+    "BannerNetwork"      : "ca-app-pub-9691576545415217/9582883495",
+    "InterstitialNetwork": "ca-app-pub-9691576545415217/2196182210",
+    "NativeNetwork"      : "ca-app-pub-9691576545415217/7152979517",
+    "RewardNetwork"      : "ca-app-pub-9691576545415217/1354842403",
     
     "AdInterval"         : 2,
     
