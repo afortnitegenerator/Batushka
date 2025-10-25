@@ -6,7 +6,7 @@
     ],
    
    
-    "BannerNetwork": "admob",
+    "BannerNetwork": "",
     "InterstitialNetwork": "admob",
     "NativeNetwork": "admob",
     "RewardNetwork": "admob",
